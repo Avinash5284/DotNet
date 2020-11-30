@@ -1,0 +1,7 @@
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\bin\Debug\HelloApp.exe.config
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\bin\Debug\HelloApp.exe
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\bin\Debug\HelloApp.pdb
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\obj\Debug\HelloApp.csprojAssemblyReference.cache
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\obj\Debug\HelloApp.csproj.CoreCompileInputs.cache
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\obj\Debug\HelloApp.exe
+D:\CDAC_FEB_20_CORONA\DOTNET\Lab_practice\Day1\HelloApp\obj\Debug\HelloApp.pdb
